@@ -1,7 +1,0 @@
-#:schema https://workers.cloudflare.com/schemas/v1/wrangler.json
-pages_build_output_dir = "./"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "marcasecnpj"
-database_id = "71a41a7c-557d-44ad-b225-5a9721of8ae0"
