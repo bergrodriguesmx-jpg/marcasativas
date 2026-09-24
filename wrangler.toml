@@ -1,5 +1,5 @@
-name = "marcasativas"
-compatibility_date = "2024-01-01"
+#:schema https://workers.cloudflare.com/schemas/v1/wrangler.json
+pages_build_output_dir = "./"
 
 [[d1_databases]]
 binding = "DB"
